@@ -84,10 +84,6 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Candidate in Scientific Visualization <br> <br> <a style='color: black;' href='https://vgl.csa.iisc.ac.in/'>Visualization and Graphics Lab</a>, <br> <a style='color: black;' href='https://www.csa.iisc.ac.in/'>Dept. of Computer Science and Automation</a> , <br> <a style='color: black;' href='https://iisc.ac.in/'>Indian Institute of Science</a>"
   location         : "Bangalore"
-  links:
-    - label: "Semantic Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://www.semanticscholar.org/author/Raghavendra-Sridharamurthy/32249467"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=raghavendra+sridharamurthy"
   #googlescholar    : ""
@@ -98,6 +94,10 @@ author:
   github           : "raghavendrags"
   linkedin         : "https://in.linkedin.com/in/raghavendra-sridharamurthy-a428b4106/"
   orcid            : "http://orcid.org/0000-0001-8463-0488"
+  links:
+    - label: "Semantic Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://www.semanticscholar.org/author/Raghavendra-Sridharamurthy/32249467"
 
 
 
