@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Raghavendra GS"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Scientific Visualization <br> <br> Visualization and Graphics Lab, <br> Dept. of Computer Science and Automation, <br> Indian Institute of Science"
+  bio              : "PhD Candidate in Scientific Visualization <br> <br> <a style='color: black;' href='https://vgl.csa.iisc.ac.in/'>Visualization and Graphics Lab</a>, <br> <a style='color: black;' href='https://www.csa.iisc.ac.in/'>Dept. of Computer Science and Automation</a> , <br> <a style='color: black;' href='https://iisc.ac.in/'>Indian Institute of Science</a>"
   location         : "Bangalore"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=raghavendra+sridharamurthy"
   semanticscholar  : "https://www.semanticscholar.org/author/Raghavendra-Sridharamurthy/32249467"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://www.semanticscholar.org/author/Raghavendra-Sridharamurthy/32249467"
   email            : 
   researchgate     : "https://www.researchgate.net/scientific-contributions/Raghavendra-Sridharamurthy-2109747369"
   uri              :
