@@ -94,10 +94,7 @@ author:
   github           : "raghavendrags"
   linkedin         : "raghavendra-sridharamurthy-a428b4106/"
   orcid            : "http://orcid.org/0000-0001-8463-0488"
-  links:
-    - label: "Semantic Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://www.semanticscholar.org/author/Raghavendra-Sridharamurthy/32249467"
+  semanticscholar  : "https://www.semanticscholar.org/author/Raghavendra-Sridharamurthy/32249467"
 
 
 
