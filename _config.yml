@@ -86,36 +86,16 @@ author:
   location         : "Bangalore"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=raghavendra+sridharamurthy"
+  semanticscholar  : "https://www.semanticscholar.org/author/Raghavendra-Sridharamurthy/32249467"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : 
+  researchgate     : "https://www.researchgate.net/scientific-contributions/Raghavendra-Sridharamurthy-2109747369"
   uri              :
   bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "raghavendrags"
-  #google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  linkedin         : "https://in.linkedin.com/in/raghavendra-sridharamurthy-a428b4106/"
   orcid            : "http://orcid.org/0000-0001-8463-0488"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-  semanticscholar  : "https://www.semanticscholar.org/author/Raghavendra-Sridharamurthy/32249467"
+
 
 
 # Reading Files
