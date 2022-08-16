@@ -14,10 +14,15 @@ year: '2013'
 citation: '<u>Raghavendra G S</u> <i>&quot;Identification and quantification of important voids and pockets in proteins;</i> M.Sc(Engg) Thesis, 2013'
 authors: '<u>Raghavendra G S</u>'
 bibtexCode: '@mastersthesis{SridhaamurthyMScEngg2013,
+
 title={Identification and quantification of important voids and pockets in proteins},
+
 author={Raghavendra G S},
+
 year={2013},
+
 school={Indian Institute of Science},
+
 address={Bengaluru}
 }
 '
