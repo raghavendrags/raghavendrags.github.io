@@ -34,5 +34,133 @@
   });
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/> <!-- sets the browsers viewport to the device width-->
+ 
+<style>
+  body{
+    line-height: normal;
+  }
+  p{
+    margin-bottom: 5px;
+    margin-top:5px;
+  }
+  blockquote {
+    margin: 0px 0px 0px 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-style: italic;
+    border-left: 0.25em solid #7a8288;
+}
+summary{
+  cursor: pointer;
+  padding-left: 10px;
+}
+
+.pubTitle{
+  color:black;
+  font-weight: normal;
+  font-size: 18px;
+}
+
+.pubTitle:link {
+  text-decoration: none;
+}
+
+.pubTitle:visited {
+  text-decoration: none;
+}
+
+.pubTitle:hover {
+  text-decoration: underline;
+}
+
+.pubTitle:active {
+  text-decoration: underline;
+
+}
+.list_of_tags{
+    margin-left:10px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#photos {
+   /* Prevent vertical gaps */
+   line-height: 0;
+   
+   -webkit-column-count: 2;
+   -webkit-column-gap:   0px;
+   -moz-column-count:    5;
+   -moz-column-gap:      0px;
+   column-count:         2;
+   column-gap:           0px;
+}
+
+#photos img {
+  /* Just in case there are inline attributes */
+  width: 98%;
+  height: auto !important;
+  border: solid 1px #4f4f49;
+  margin: 5px;
+  /* max-width: 400px; */
+}
+
+@media (max-width: 1200px) {
+  #photos {
+  -moz-column-count:    2;
+  -webkit-column-count: 2;
+  column-count:         2;
+  }
+}
+@media (max-width: 1000px) {
+  #photos {
+  -moz-column-count:    2;
+  -webkit-column-count: 2;
+  column-count:         2;
+  }
+}
+@media (max-width: 800px) {
+  #photos {
+  -moz-column-count:    1;
+  -webkit-column-count: 1;
+  column-count:         1;
+  }
+}
+@media (max-width: 400px) {
+  #photos {
+  -moz-column-count:    1;
+  -webkit-column-count: 1;
+  column-count:         1;
+  }
+}
+
+pre {
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 1em 0px;
+}
+
+.bibtex{
+    margin-top:0px;
+    padding: 20px;
+    overflow-x: auto;
+    background: #f3f3f3;
+    color: #636363;
+}
+
+.itemwrapper{
+    display: grid;
+    grid-template-columns: 150px auto;
+}
+
+.archive__item-title{
+    margin-top:0px;
+}
+</style>
 
 <!-- end custom head snippets -->
+Footer
