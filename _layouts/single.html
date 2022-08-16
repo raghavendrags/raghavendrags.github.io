@@ -82,6 +82,13 @@ layout: default
         <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtubeid }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <!-- <a href="{{ page.video }}" target="_blank" title="Video">Watch the video<i class="fas fa-fw fa-video zoom" aria-hidden="true" ></i></a> -->
         {% endif %}
+    
+        {% if page.video and page.vimeoid %}
+        <br/>
+        <br/>
+        <iframe width="560" height="315" src="https://player.vimeo.com/video/{{ page.youtubeid }}" title="Vimeo video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <!-- <a href="{{ page.video }}" target="_blank" title="Video">Watch the video<i class="fas fa-fw fa-video zoom" aria-hidden="true" ></i></a> -->
+        {% endif %}
 
         {% if page.citation %}
         <br/>
