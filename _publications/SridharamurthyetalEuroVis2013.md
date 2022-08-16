@@ -1,7 +1,7 @@
 ---
 title: "Extraction of Robust Voids and Pockets in Proteins"
 collection: publications
-date: 2021-10-26
+date: 2013-06-21
 venue: 'EuroVis 2013'
 bibid: 'SridharamurthyetalEuroVis2013'
 permalink: /publication/SridharamurthyetalEuroVis2013
