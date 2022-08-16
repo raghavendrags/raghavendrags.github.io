@@ -6,7 +6,7 @@ venue: 'IEEE Conference on Visualization'
 bibid: 'SridharamurthyVis2017'
 permalink: /publication/SridharamurthyVis2017
 paperurl: '/files/SridharamurthyVis2017.pdf'
-image: '/files/SridharamurthyVis2017.PNG'
+image: '/files/SridharamurthyVis2017.png'
 doi: ''
 doiurl: ''
 abstract: 'A merge tree captures the topology of sub-level and super-level sets in a scalar field. Estimating the similarity or dissimilarity between merge trees is an important problem with applications to visualization of time-varying and multi-field data. We present a tree edit distance based approach with a general subtree gap model to compare merge trees. The cost model is based on topological persistence. Experimental results on time-varying data show the utility of the method towards a feature-driven analysis of scalar fields.'
