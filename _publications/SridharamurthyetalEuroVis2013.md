@@ -2,7 +2,7 @@
 title: "Extraction of Robust Voids and Pockets in Proteins"
 collection: publications
 date: 2013-06-21
-venue: 'EuroVis 2013'
+venue: 'The Eurographics Conference on Visualization'
 bibid: 'SridharamurthyetalEuroVis2013'
 permalink: /publication/SridharamurthyetalEuroVis2013
 paperurl: '/files/SridharamurthyetalEuroVis2013.pdf'
