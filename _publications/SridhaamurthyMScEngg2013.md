@@ -2,7 +2,7 @@
 title: "Identification and quantification of important voids and pockets in proteins"
 collection: publications
 date: 2013-12-10
-venue: ''
+venue: 'Indian Institute of Science'
 bibid: 'SridhaamurthyMScEngg2013'
 permalink: /publication/SridhaamurthyMScEngg2013
 paperurl: '/files/SridhaamurthyMScEngg2013.pdf'
