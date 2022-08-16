@@ -6,7 +6,7 @@ venue: 'Computer Graphics Forum'
 bibid: 'YanetalEuroVis2021STAR'
 permalink: /publication/YanetalEuroVis2021STAR
 paperurl: '/files/YanetalEuroVis2021STAR.pdf'
-image: '/files/YanetalEuroVis2021STAR.PNG'
+image: '/files/YanetalEuroVis2021STAR.png'
 doi: '10.1111/cgf.14331'
 doiurl: 'https://doi.org/10.1111/cgf.14331'
 abstract: 'In topological data analysis and visualization, topological descriptors such as persistence diagrams, merge trees, contour trees, Reeb graphs, and Morse–Smale complexes play an essential role in capturing the shape of scalar field data. We present a state-of-the-art report on scalar field comparison using topological descriptors. We provide a taxonomy of existing approaches based on visualization tasks associated with three categories of data: single fields, time-varying fields, and ensembles. These tasks include symmetry detection, periodicity detection, key event/feature detection, feature tracking, clustering, and structure statistics. Our main contributions include the formulation of a set of desirable mathematical and computational properties of comparative measures and the classification of visualization tasks and applications that are enabled by these measures.'
