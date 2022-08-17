@@ -19,7 +19,7 @@ bibtexCode: ' @inproceedings{SridharamurthyetalEuroVis2013,
     url = {http://diglib.eg.org/handle/10.2312/PE.EuroVisShort.EuroVisShort2013.067-071}, 
     author = {Sridharamurthy, Raghavendra and Doraiswamy, Harish and Patel, Siddharth and Varadarajan, Raghavan and Natarajan, Vijay}, 
     keywords = {I.3.6 [Computer Graphics], Computer Graphics, Methodology and Techniques}, 
-    title = {Extraction of Robust Voids and Pockets in Proteins}, conference = {EuroVis - Short Papers}, 
+    title = {{Extraction of Robust Voids and Pockets in Proteins}}, conference = {EuroVis - Short Papers}, 
     publisher = {The Eurographics Association}, 
     year = {2013}}
 '
