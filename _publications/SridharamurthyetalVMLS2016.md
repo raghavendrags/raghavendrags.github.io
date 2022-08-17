@@ -23,4 +23,4 @@ bibtexCode: ' @incollection{SridharamurthyetalVMLS2016,
 '
 ---
 
-<b><a href="https://media.springernature.com/w92/springer-static/cover/book/978-3-319-24523-2.jpg?as=webp">Coverpage Image</a></b>
+<b><a href="https://link.springer.com/chapter/10.1007/978-3-319-24523-2_15/cover">Coverpage Image</a></b>
