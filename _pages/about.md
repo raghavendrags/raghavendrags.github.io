@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Raghavendra G S, a Post Doctoral Researcher at the [Scientific Computing and Imaging Institute (SCI)](https://www.sci.utah.edu/), [University of Utah](https://www.utah.edu/). My mentor is [Prof. Bei Wang Phillips](http://www.sci.utah.edu/~beiwang/). 
+I'm Raghavendra G S, a Postdoctoral Researcher at the [Scientific Computing and Imaging Institute (SCI)](https://www.sci.utah.edu/), [University of Utah](https://www.utah.edu/). My mentor is [Prof. Bei Wang Phillips](http://www.sci.utah.edu/~beiwang/). 
 
 Previously, I've been a Research Fellow at the Department of [Computer Science and Automation (CSA)](https://www.csa.iisc.ac.in/), [Indian Institute of Science (IISc)](https://iisc.ac.in/), Bengaluru. I was part of the [Visualization and Graphics Lab (VGL)](https://vgl.csa.iisc.ac.in/). 
 
