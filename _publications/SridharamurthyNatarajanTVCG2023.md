@@ -15,14 +15,13 @@ youtubeid: 'OpXoq0zSczo'
 year: '2023'
 citation: ' <u>Raghavendra Sridharamurthy</u> and Vijay Natarajan <i>&quot;Comparative Analysis of Merge Trees using Local Tree Edit Distance&quot;</i> IEEE Transactions in Visualization and Computer Graphics, 2023'
 authors: ' <u>Raghavendra Sridharamurthy</u> and Vijay Natarajan'
-bibtexCode: ' @article{sridharamurthy2023comparative,
+bibtexCode: ' @article{SridharamurthyNatarajanTVCG2023,
   title={Comparative Analysis of Merge Trees Using Local Tree Edit Distance},
   author={Sridharamurthy, Raghavendra and Natarajan, Vijay},
   journal={IEEE Transactions on Visualization and Computer Graphics},
   volume={29},
   number={02},
   pages={1518--1530},
-  year={2023},
-  publisher={IEEE Computer Society}}
+  year={2023}}
 '
 ---
