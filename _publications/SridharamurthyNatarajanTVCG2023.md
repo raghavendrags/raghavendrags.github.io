@@ -3,7 +3,7 @@ title: "Comparative Analysis of Merge Trees using Local Tree Edit Distance"
 collection: publications
 date: 2023-02-01
 venue: 'IEEE Transactions in Visualization and Computer Graphics'
-bibid: 'SridharamurthyNatarajanTVCG2022'
+bibid: 'SridharamurthyNatarajanTVCG2023'
 permalink: /publication/SridharamurthyNatarajanTVCG2023
 paperurl: '/files/SridharamurthyNatarajanTVCG2023.pdf'
 image: '/files/SridharamurthyNatarajanTVCG2023.png'
