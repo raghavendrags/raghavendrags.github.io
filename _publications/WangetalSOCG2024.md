@@ -2,7 +2,7 @@
 title: "Measure-Theoretic Reeb Graphs and Reeb Spaces"
 collection: publications
 date: 2024-06-06
-venue: 'IEEE Transactions in Visualization and Computer Graphics'
+venue: '40th International Symposium on Computational Geometry (SoCG 2024)'
 bibid: 'WangetalSOCG2024'
 permalink: /publication/WangetalSOCG2024
 paperurl: '/files/WangetalSOCG2024.pdf'
