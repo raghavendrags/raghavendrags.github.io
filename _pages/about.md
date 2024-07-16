@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Raghavendra G S, a Research Associate at the  [Visualization and Graphics Lab (VGL)](https://vgl.csa.iisc.ac.in/), working with  [Prof. Vijay Natarajan](https://csa.iisc.ac.in/~vijayn/).  
+I'm Raghavendra G S, a Research Associate at the [Visualization and Graphics Lab (VGL)](https://vgl.csa.iisc.ac.in/), Department of [Computer Science and Automation (CSA)](https://www.csa.iisc.ac.in/), [Indian Institute of Science (IISc)](https://iisc.ac.in/), Bengaluru. I work with [Prof. Vijay Natarajan](https://csa.iisc.ac.in/~vijayn/).  
 
 Previously, I've been a Postdoctoral Researcher at the [Scientific Computing and Imaging Institute (SCI)](https://www.sci.utah.edu/), [University of Utah](https://www.utah.edu/) with [Prof. Bei Wang Phillips](http://www.sci.utah.edu/~beiwang/), Research Fellow at the Department of [Computer Science and Automation (CSA)](https://www.csa.iisc.ac.in/), [Indian Institute of Science (IISc)](https://iisc.ac.in/), Bengaluru. I was part of the [Visualization and Graphics Lab (VGL)](https://vgl.csa.iisc.ac.in/). 
 
