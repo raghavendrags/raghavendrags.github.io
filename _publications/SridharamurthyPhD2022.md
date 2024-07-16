@@ -34,4 +34,4 @@ address={Bengaluru}
 }
 '
 ---
-Commendation certificate from Dept of CSA in recognition of outstanding thesis 2022-2023.
+<b>Commendation certificate from the department of Computer Science and Automation, IISc in recognition of outstanding thesis 2022-2023.<\b>
