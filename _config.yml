@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Raghavendra G S / Raghavendra Sridharamurthy"
 title_separator          : "-"
 name                     : &name "Raghavendra G S / Raghavendra Sridharamurthy"
-description              : &description "Postdoctoral Researcher<br>Scientific visualization"
+description              : &description "Assistant Professor"
 url                      : https://raghavendrags.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "raghavendrags/raghavendrags.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Raghavendra G S"
   avatar           : "raghavendra.png"
-  bio              : "Research Associate<br> <br> <a style='color: black;' href='https://vgl.csa.iisc.ac.in/'>VGL @ CSA, IISc</a>, <br> <a style='color: black;' href='https://iisc.ac.in/'>Indian Institute of Science</a>"
-  location         : "Bengaluru"
-  employer         : "Indian Insitute of Science"
+  bio              : "Assistant Professor<br> <br> <a style='color: black;' href='https://cvit.iiit.ac.in/'>CVIT</a>, <br> <a style='color: black;' href='https://www.iiit.ac.in/'>IIIT, Hyderabad</a>"
+  location         : "Hyderabad"
+  employer         : "International Institute of Information Technology, Hyderabad"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=raghavendra+sridharamurthy"
   googlescholar    : "https://scholar.google.co.in/citations?user=I49qjq4AAAAJ&hl=en"
   email            : 
@@ -93,7 +93,7 @@ author:
   bitbucket        :
   dblp             : "https://dblp.org/pid/211/5877.html"
   github           : "raghavendrags"
-  linkedin         : "raghavendra-sridharamurthy-a428b4106/"
+  linkedin         : "raghavendra-sridharamurthy/"
   orcid            : "http://orcid.org/0000-0001-8463-0488"
   semanticscholar  : "https://www.semanticscholar.org/author/Raghavendra-Sridharamurthy/32249467"
 
